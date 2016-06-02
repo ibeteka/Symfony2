@@ -1,3 +1,3 @@
-# Symfony2
+# Validators
 
 CREATED VALIDATOR FOR SYMFONY2 FORM 
